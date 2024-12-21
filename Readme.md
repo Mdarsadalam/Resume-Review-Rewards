@@ -10,6 +10,10 @@ This platform ensures transparency, fairness, and efficiency by using blockchain
 
  **Contract Address:**
 0x58898CfB4cA27b00E190753B5b487FdE82774116
+![image](https://github.com/user-attachments/assets/564af258-109b-4edd-95ad-2290e3ca70b9)
+
+
+
 
 ## Project Vision
 The vision of "Resume Review Rewards" is to foster a collaborative ecosystem where job seekers and professionals help each other improve resumes. By providing a reward mechanism for reviewers, this project encourages participation and aims to create a transparent and decentralized platform for resume feedback.
